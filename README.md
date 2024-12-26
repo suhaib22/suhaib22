@@ -10,11 +10,6 @@ I specialize in Python, SQL, Power BI, and Tableau. Currently, I'm diving deeper
 - **Database Management**: MySQL, PostgreSQL
 - **Other**: Git, Excel, Jupyter Notebooks
 
-## 🚀 Featured Projects
-
-### [Breast Cancer Prediction](https://github.com/suhaib22/Breast-Cancer-Prediction)
-A machine learning project aimed at predicting breast cancer using historical data. Built with Python and Scikit-learn.
-
 
 ## 📚 Currently Learning
 - Machine Learning with TensorFlow
